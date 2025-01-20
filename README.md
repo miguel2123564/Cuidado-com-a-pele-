@@ -90,8 +90,8 @@
       <li>Manutenção da hidratação e elasticidade.</li>
       <li>Melhoria na autoestima e confiança.</li>
     </ul>
-    <div class="https://photos.app.goo.gl/SDhpSokM81kFMj6TA">
-      <img src=https://www.instagram.com/mude_td?igsh=dzZuYWpwaDFnYzJs alt="Pele saudável e radiante">
+    <div class="image">
+      <img src="https://photos.app.goo.gl/nSdimstuHMQtLudp6" alt="Pele saudável e radiante">
     </div>
   </section>
 
@@ -123,8 +123,8 @@
       <li>Use um tônico para equilibrar o pH da pele.</li>
       <li>Hidratante noturno ou creme antienvelhecimento.</li>
     </ul>
-    <div class="https://photos.app.goo.gl/LsZRsvHQFjVu7Q7n9">
-      <img src=https://www.instagram.com/mude_td?igsh=dzZuYWpwaDFnYzJsalt="Rotina de cuidados com a pele">
+    <div class="image">
+      <img src="https://photos.app.goo.gl/W423fdYpmdRaUYup7" alt="Rotina de cuidados com a pele">
     </div>
   </section>
 
